@@ -1,0 +1,10 @@
+# EAS Build ignore patterns to exclude large directories and backend code
+node_modules/
+backend/
+models/
+.git/
+.expo/
+web-build/
+dist/
+*.apk
+*.aab

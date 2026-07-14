@@ -1,0 +1,23 @@
+node_modules/
+.expo/
+dist/
+web-build/
+*.apk
+*.aab
+*.ipa
+
+# Backend
+backend/venv/
+backend/models/
+backend/__pycache__/
+backend/**/__pycache__/
+*.pyc
+
+# Environment
+.env
+.env.local
+.env.production
+
+# OS
+.DS_Store
+Thumbs.db
